@@ -1,2 +1,2 @@
 # statStudy
-Practise/Learning statistical techniques
+Learning statistical techniques
