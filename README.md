@@ -7,4 +7,5 @@ A look into how MCMC methods work
   
 ---
 ### Function Optimiser
-A study into how different methods optimise for y minima with different piecewise functions
+A study into how different methods optimise for y minima with different piecewise functions  
+Enter functions as: func1, n<=x<m   - Seperate functions with '|', function ranges cannot overlap  
